@@ -1,3 +1,4 @@
+
 var myNum = 10;
 var myStr = 'строка';
 var myBool = true;
@@ -17,7 +18,6 @@ console.log('myObj:', myObj);
 var decimal2 = myNum.toFixed(2);
 
 var i = 0;
-
 
 console.log('Префиксный инкремент:', ++i);
 console.log('Постфиксный инкремент:', i++);
